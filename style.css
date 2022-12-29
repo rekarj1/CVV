@@ -1,0 +1,313 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4e6dd;
+}
+
+.main{
+    position: absolute;
+    margin-left:410px;
+    
+}
+.main h4{
+    position: relative;
+    top: 20px;
+}
+.main pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.main hr{
+    position: relative;
+    bottom: -5px;
+    width: 110px;
+}
+
+.language li{
+    list-style: none;
+    position: relative;
+    top: 190px;
+    padding: 10px;
+}
+.bar{
+    background:#433834 ;
+    width: 220px;
+    display: block;
+    height: 7px;
+    border: 1px solid #bc927a;
+    border-radius: 4px;
+    overflow: hidden;
+    
+}
+.bar span{
+    height: 7px;
+    float: left;
+    background: #bc927a;
+}
+.Kurdish{
+    width: 97%;
+    animation: Kurdish 3%;
+}
+.English{
+    width: 70%;
+    animation: Kurdish 3%;
+}
+.Arabic{
+    width:40%;
+    animation: Kurdish 3%;
+}
+.language h4{ 
+    position: relative;
+    top: 205px;
+    left: 5px;
+}
+.language hr{
+    position: relative;
+    top: 195px;
+    left: 6px;
+    width: 118px;
+}
+
+
+
+.side{
+    background-color: #bc927a;
+    position: absolute;
+    width: 45px;
+    height: 430px;
+    margin-top:115px;
+    margin-left: 12px;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+.line{
+    position: absolute;
+    background-color: #433834;
+    width: 5px;
+    height: 380px;
+    margin-left:405px;
+    margin-top: 140px;
+}
+.middle{
+    position: absolute;
+    background-color: #433834;
+    width: 280px;
+    height: 620px;
+    margin-left:120px;
+    margin-top: 20px;
+    border-bottom-left-radius:150px ;
+    border-bottom-right-radius:150px ;
+    border-top-left-radius:150px ;
+    border-top-right-radius:150px ;
+}
+
+
+
+.name h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #433834;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 65px;
+}
+.name p i{
+    color: white;
+    background-color: #433834;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 85px;
+}
+
+.contact h4{
+
+    position: absolute;
+    background-color: #433834;
+    color: white;
+    margin-top: 340px;
+    margin-left: 35px;
+}
+.contact hr{
+    margin-left: 36px;
+    margin-top: 373px;
+    position: absolute;
+    width: 90px;
+   
+}
+.contact i{
+    position: absolute;
+    background-color: #433834;
+    color: white;
+    width: 35px;
+    margin-top: 400px;
+    margin-left: 35px;
+}
+.contact p{
+    background-color: #433834;
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 75px;
+}
+
+
+.picbg{
+    position: absolute;
+    width: 1110px;
+    height: 180px;
+    background-color: #bc927a ;
+    margin-top: 190px;
+    margin-left: 127px;
+    border-top-left-radius:150px ;
+    border-bottom-left-radius: 150px;
+}
+.picbg img{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 150px;
+    background: transparent;
+    
+}
+
+.info{
+    background-color: #bc927a;
+    position: absolute;
+    margin-top: -160px;
+    margin-left:280px;
+}
+.info h4{
+background-color: #bc927a;
+color: white;
+}
+.info hr{
+    position: relative;
+    bottom:12px ;
+    width: 140px;
+}
+.info pre{
+   
+    color: white;
+    font-size: 13px;
+    position: absolute;
+    background-color: #bc927a;
+    margin-top: -25px;
+    margin-left: -85px
+}
+#aland{
+    height:1px;
+    width:1px;
+    overflow: hidden;
+}
+
+.Skills {
+    list-style: none;
+    position: absolute;
+    top: 5px;
+   margin-top: 400px;
+   margin-left: 250px;
+}
+.Skills h4{
+margin-top: -50px;
+    position: absolute;
+}
+.Skills hr{
+    width: 58px;
+    position: relative;
+    left:1px;
+    top: -15px;
+}
+.Skills li{
+    position: relative;
+   bottom: 20px;
+padding: 10px;
+}
+.Skills2{
+    list-style: none;
+    position: absolute;
+    top: 23px;
+   margin-top: 400px;
+   margin-left: 520px;
+}
+.Skills2 li{
+    padding: 5px;
+}
+
+.Graphid-Design{
+    width: 55%;
+    animation: Kurdish 3%;
+}
+.Web-Design{
+    width: 70%;
+    animation: Kurdish 3%;
+}
+.Video-Editing{
+    width: 60%;
+    animation: Kurdish 3%;
+}
+.Microsoft-Office{
+    width: 75%;
+    animation: Kurdish 3%;
+}
+.HTML-n-CSS{
+    width: 87%;
+    animation: Kurdish 3%;
+}
+.Java{
+    width: 30%;
+    animation: Kurdish 3%;
+}
+.Js{
+    width: 30%;
+    animation: Kurdish 3%;
+}
+
+
+
+#insta {
+    position: absolute;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    margin-top: -150px;
+    margin-left: 900px;
+  }
+
+  
+ #facebook{
+    position: absolute;
+    background: transparent;
+    border-radius: 900px;
+    background-color: white;
+    margin-left: 899px;
+    margin-top: -98px;
+    font-size: 38px;
+    color: #3b5998;
+}
+
+#twitter{
+    background: transparent;
+    position: absolute;
+    margin-bottom: 16px;
+    margin-left: 899px;
+   margin-top: -50px;
+    color: #00acee;
+    font-size: 40px;
+}
+
+.nwsin{
+    padding: 25px;
+    margin-top:-160px;
+    margin-left: 940px;
+    background-color: #bc927a;
+    position: absolute;
+}
+.nwsin a{
+    text-decoration: none;
+}
+.nwsin a p{
+    color: white;
+    background-color: #bc927a;
+}
+
